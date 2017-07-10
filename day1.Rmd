@@ -2,7 +2,7 @@
 title: "day1.Rmd"
 author: "Crystal Nguyen"
 date: "July 10, 2017"
-output: html_document
+output: word_document
 ---
 
 ```{r setup, include=FALSE}
